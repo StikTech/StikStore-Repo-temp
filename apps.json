@@ -119,6 +119,33 @@
       "versionDescription": "Beta 4 attempts to fix crashes when using JIT on devices with an A12, A13, A14, or M1 chip running iOS 26.\n\nBeta 3 adds support for emulating Skylander Portal of Power, fixes JIT on some devices running iOS 17 and 18, and fixes random errors with JIT on iOS 26.\n\nBeta 1 adds support for JIT on iOS 26 using StikDebug.",
       "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b4/Non-Jailbroken.ipa",
       "size": 17958943
+    },
+    {
+      "name": "SideStore Nightly",
+      "bundleIdentifier": "com.side.store.nightly",
+      "developerName": "SideStore Team",
+      "subtitle": "Latest nightly build.",
+      "localizedDescription": "This is the nightly build of SideStore, containing the most recent experimental changes. Nightly builds may include new features, improvements, or instability.",
+      "iconURL": "",
+      "tintColor": "4b8bfa",
+      "screenshotURLs": [],
+      "beta": true,
+      "versions": [
+        {
+          "version": "nightly",
+          "date": "2025-01-01T00:00:00.0000000Z",
+          "localizedDescription": "Latest nightly build.",
+          "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
+          "size": 0,
+          "minOSVersion": "14.0",
+          "maxOSVersion": "99.0"
+        }
+      ],
+      "version": "nightly",
+      "versionDate": "2025-01-01T00:00:00.0000000Z",
+      "versionDescription": "Latest nightly build.",
+      "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
+      "size": 0
     }
   ],
   "news": [
