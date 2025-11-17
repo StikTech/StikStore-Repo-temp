@@ -39,7 +39,7 @@
       "bundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
       "developerName": "OatmealDome",
       "subtitle": "Test the latest DolphiniOS.",
-      "localizedDescription": "DolphiniOS is a port of the popular Dolphin emulator to iOS. Dolphin lets you play your favourite GameCube and Wii software with enhancements like higher resolutions, save states, and more. You can even play all of Nintendo's classics from past consoles through the Wii's Virtual Console library.\n\nPlease note that devices with A8 processors and older are not compatible.",
+      "localizedDescription": "DolphiniOS is a port of the popular Dolphin emulator to iOS...",
       "iconURL": "https://cdn.oatmealdome.me/dolphinios/AppIcon.appiconset/BetaAppStore.png",
       "tintColor": "ffbb3d",
       "screenshotURLs": [
@@ -58,60 +58,6 @@
           "size": 17958943,
           "minOSVersion": "14.0",
           "maxOSVersion": "99.0"
-        },
-        {
-          "version": "5.0.0b3",
-          "date": "2025-10-18T00:00:00.0000000Z",
-          "localizedDescription": "Adds support for emulating Skylander Portal of Power, fixes JIT on some devices running iOS 17 and 18, and fixes random errors with JIT on iOS 26.",
-          "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b3/Non-Jailbroken.ipa",
-          "size": 17958943,
-          "minOSVersion": "14.0",
-          "maxOSVersion": "99.0"
-        },
-        {
-          "version": "5.0.0b2",
-          "date": "2025-10-13T00:00:00.0000000Z",
-          "localizedDescription": "Adds support for JIT on iOS 26 using StikDebug.",
-          "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b2/Non-Jailbroken.ipa",
-          "size": 17958943,
-          "minOSVersion": "14.0",
-          "maxOSVersion": "99.0"
-        },
-        {
-          "version": "5.0.0b1",
-          "date": "2025-10-11T17:00:00.0000000Z",
-          "localizedDescription": "This is the second public beta build based on the rewritten DolphiniOS code.\n\niOS 14 is required to run this build.",
-          "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b1/Non-Jailbroken.ipa",
-          "size": 17958943,
-          "minOSVersion": "14.0",
-          "maxOSVersion": "99.0"
-        },
-        {
-          "version": "4.0.0b8",
-          "date": "2025-01-19T00:00:00.0000000Z",
-          "localizedDescription": "This is the second public beta build based on the rewritten DolphiniOS code.\n\niOS 14 is required to run this build.",
-          "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b8/Non-Jailbroken.ipa",
-          "size": 15830129,
-          "minOSVersion": "14.0",
-          "maxOSVersion": "99.0"
-        },
-        {
-          "version": "4.0.0b7",
-          "date": "2024-01-21T20:30:00.0000000Z",
-          "localizedDescription": "This is the first build based on the rewritten DolphiniOS code.\n\niOS 14 is required to run this build.",
-          "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b7/Non-Jailbroken.ipa",
-          "size": 13775833,
-          "minOSVersion": "14.0",
-          "maxOSVersion": "99.0"
-        },
-        {
-          "version": "3.2.1b1",
-          "date": "2022-07-05T22:00:00.0000000Z",
-          "localizedDescription": "This update contains the following changes:\n\n- Fixed ubershaders.\n- Fixed fastmem crashing on iOS 16 betas.\n\nThe next beta build will be based off the rewritten DolphiniOS source code.",
-          "downloadURL": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1b1-213/DolphiniOS-NJB-Beta-3.2.1b1-213.ipa",
-          "size": 80291610,
-          "minOSVersion": "12.0",
-          "maxOSVersion": "99.0"
         }
       ],
       "version": "5.0.0b4",
@@ -121,43 +67,51 @@
       "size": 17958943
     },
     {
-      "name": "SideStore Nightly",
-      "bundleIdentifier": "com.side.store.nightly",
-      "developerName": "SideStore Team",
-      "subtitle": "Latest nightly build.",
-      "localizedDescription": "This is the nightly build of SideStore, containing the most recent experimental changes. Nightly builds may include new features, improvements, or instability.",
-      "iconURL": "",
-      "tintColor": "4b8bfa",
-      "screenshotURLs": [],
-      "beta": true,
+      "name": "Manic EMU v1.7.3",
+      "bundleIdentifier": "com.aoshuang.manicemu",
+      "developerName": "Manic EMU Development Team",
+      "subtitle": "Retro Emulation, Redefined.",
+      "localizedDescription": "Manic EMU is your all-in-one retro gaming hub — built to be fast, clean, and hassle-free...",
+      "iconURL": "https://apps.manicemu.site/images/manicicon.jpg",
+      "tintColor": "#FF2442",
+      "screenshotURLs": [
+        "https://apps.manicemu.site/images/manicemu/ver4/a01.jpg",
+        "https://apps.manicemu.site/images/manicemu/ver4/a02.jpg",
+        "https://apps.manicemu.site/images/manicemu/ver4/a04.jpg",
+        "https://apps.manicemu.site/images/manicemu/ver4/a05.jpg",
+        "https://apps.manicemu.site/images/manicemu/ver4/a06.jpg",
+        "https://apps.manicemu.site/images/manicemu/ver4/a07.jpg"
+      ],
+      "beta": false,
       "versions": [
         {
-          "version": "nightly",
-          "date": "2025-01-01T00:00:00.0000000Z",
-          "localizedDescription": "Latest nightly build.",
-          "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-          "size": 0,
-          "minOSVersion": "14.0",
+          "version": "1.7.3",
+          "date": "2025-10-27T12:00:00-08:00",
+          "localizedDescription": "• Added TriggerPro — a full-featured customizable button system\n• Redesigned default skins...",
+          "downloadURL": "https://github.com/Manic-EMU/ManicEMU/releases/download/v1.7.3/ManicEMU.v1.7.3.SideloadJIT.ipa",
+          "size": 130900000,
+          "minOSVersion": "15.0",
           "maxOSVersion": "99.0"
         }
       ],
-      "version": "nightly",
-      "versionDate": "2025-01-01T00:00:00.0000000Z",
-      "versionDescription": "Latest nightly build.",
-      "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-      "size": 0
+      "version": "1.7.3",
+      "versionDate": "2025-10-27T12:00:00-08:00",
+      "versionDescription": "• Added TriggerPro — a full-featured customizable button system\n• Redesigned default skins...",
+      "downloadURL": "https://github.com/Manic-EMU/ManicEMU/releases/download/v1.7.3/ManicEMU.v1.7.3.SideloadJIT.ipa",
+      "size": 130900000
     }
   ],
   "news": [
     {
-      "title": "DolphiniOS Version 3.2.0 has been released!",
-      "identifier": "dolphinios-version-3-2-0-release",
-      "caption": "Finally, the public version of DolphiniOS version 3.2.0 has been released!",
-      "date": "2022-05-22T00:00:00.0000000Z",
-      "tintColor": "0074f8",
-      "imageURL": "https://cdn.oatmealdome.me/dolphinios/altstore/altstore-banner-3-2-0.png",
-      "url": "https://oatmealdome.me/blog/dolphinios-ver-3-2-0/",
-      "notify": false
+      "title": "Manic EMU v1.7.3 Now Available",
+      "identifier": "com.aoshuang.manicemu.news",
+      "caption": "Try TriggerPro — a full-featured customizable button system",
+      "date": "2025-10-27",
+      "tintColor": "#FF2442",
+      "imageURL": "https://apps.manicemu.site/images/news2.webp",
+      "notify": true,
+      "url": "https://github.com/Manic-EMU/ManicEMU/releases/tag/v1.7.3",
+      "appID": "com.aoshuang.manicemu"
     }
   ]
 }
